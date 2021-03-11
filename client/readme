@@ -1,0 +1,5 @@
+in bash or any cmd
+run
+- Use `create-react-app` to create the boilerplate code
+- install `axios` for the necessary web API requests
+- run 'npm start' with express running as well to create a proxy server as the api in use won't allow localhost to fetch api
